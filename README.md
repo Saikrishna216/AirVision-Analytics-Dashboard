@@ -64,15 +64,10 @@ Place your screenshots in a folder named `screenshots/` and reference them below
 ![Dashboard](screenshots/dashboard.png)
 ![Vehicle Count](screenshots/vehicle_count.png)
 ![License Plate Recognition](screenshots/license_plate.png)
-![Face Recognition](screenshots/face_recognition.png)
 
-## Notes
-- For crowd analysis, add `crowd_analysis.pt` to the `models/` directory.
-- Known faces for recognition should be placed in `dataset/`.
-- The app is designed for Windows and uses PowerShell commands in this README.
 
 ## License
 Specify your license here.
 
 ## Contact
-For support, contact [your-email@example.com].
+For support, contact [krishnaksai216@gmail.com].

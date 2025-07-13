@@ -13,7 +13,7 @@ os.makedirs("models", exist_ok=True)
 os.makedirs("dataset", exist_ok=True)
 
 st.set_page_config(layout="wide")
-st.title("🔍 Real-Time Video Analysis Web App")
+st.title("🔍AirVision Analytics App")
 
 # Select input source
 source = st.radio("Select Video Source", ["Webcam", "Upload Video", "Drone Feed (URL)"])
